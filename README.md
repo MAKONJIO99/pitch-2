@@ -11,6 +11,9 @@ one can also comment and upvote or downvotes pitches
 
 ## screenshot
 ![screenshot](./ccc.png)
+
+## live link
+[view_live](https://pitch2nd.herokuapp.com/)
 ## BDD
 
 | Behavior| input | output |
