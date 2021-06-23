@@ -9,6 +9,8 @@
 This is an application that allows one to sign in and views other users pitches and also adds  pitch.
 one can also comment and upvote or downvotes pitches 
 
+## screenshot
+![screenshot](./ccc.png)
 ## BDD
 
 | Behavior| input | output |
