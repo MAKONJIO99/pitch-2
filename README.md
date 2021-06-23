@@ -2,7 +2,7 @@
 
 ## Author 
 
-* [francis makonjio](github.com/makonjio99)
+* [FRANCIS MAKONJIO](github.com/makonjio99)
 
 ## Description
 
